@@ -46,6 +46,7 @@ For the time being, two repos are owned by Covidografia:
 
 All the issues are listed in the [kanban board](https://github.com/orgs/Tech4covid19/projects/2). Described with more details below.
 
+To get Push access to repositories, send a message to  @Luís Borges_Covidografia_dev_codavel with the github username, requesting access 
 
 ### Design and UI/UX
 
