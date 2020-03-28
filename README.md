@@ -102,6 +102,11 @@ The mobile app has the skeleton and some views implemented, but is far from read
 
 The backend repo is available at https://github.com/Tech4covid19/trackovid19-backend. Please refer to the project's README file for instructions on how to setup the project for development.
 
+
+#### Data Model
+
+![Login](images/data-model.png)
+
 ## Project governance
 
 ### Creating issues
