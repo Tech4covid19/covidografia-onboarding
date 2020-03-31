@@ -2,7 +2,7 @@
 
 ## About the project
 
-An app pretending to track the health of the user and his neighborhood.
+An app aiming to track the health of the user and his neighborhood.
 A system that detects symptoms anonymised, and allows the collection of the general health of the population to help healthcare entities to make better decisions.
 
 ## Team and Slack channels
