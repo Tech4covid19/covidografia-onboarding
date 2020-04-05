@@ -105,7 +105,7 @@ The backend repo is available at https://github.com/Tech4covid19/trackovid19-bac
 
 #### Data Model
 
-![Login](images/data-model.png)
+![Login](images/covidografia.png)
 
 ## Project governance
 
